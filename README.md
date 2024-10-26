@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Palvi Bawa</h1>
 <h3 align="center">I'm currently studying B teach in CSE</h3>
 
+<img src = "https://github.com/user-attachments/assets/c84e3d70-8da6-4bbb-b4b8-ec54fad0cd19" alt = "">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palvicoder&label=Profile%20views&color=0e75b6&style=flat" alt="palvicoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palvicoder" alt="palvicoder" /></a> </p>
